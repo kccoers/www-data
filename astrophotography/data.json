@@ -2,59 +2,59 @@
   "id": 1,
   "albumName": "starscapes",
   "albumDescription": "Starscapes",
-  "albumUrl": "https://kccoers.github.io/astrophotography/albums/starscapes",
+  "albumUrl": "https://kccoers.github.io/www-data/albums/starscapes",
   "photos": [
     {
       "id": 1,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231014_031429011_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231014_031429011_iOS.webp"
     },
     {
       "id": 2,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231014_031646707_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231014_031646707_iOS.webp"
     },
     {
       "id": 3,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231014_031911132_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231014_031911132_iOS.webp"
     },
     {
       "id": 4,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231014_031959902_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231014_031959902_iOS.webp"
     },
     {
       "id": 5,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231014_033500853_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231014_033500853_iOS.webp"
     },
     {
       "id": 6,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231014_033538658_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231014_033538658_iOS.webp"
     },
     {
       "id": 7,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231015_005411155_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231015_005411155_iOS.webp"
     },
     {
       "id": 8,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231015_005423114_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231015_005423114_iOS.webp"
     },
     {
       "id": 9,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231015_005536405_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231015_005536405_iOS.webp"
     },
     {
       "id": 10,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231015_005644400_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231015_005644400_iOS.webp"
     },
     {
       "id": 11,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231015_013620508_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231015_013620508_iOS.webp"
     },
     {
       "id": 12,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231015_034208750_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231015_034208750_iOS.webp"
     },
     {
       "id": 13,
-      "photoUrl": "https://kccoers.github.io/astrophotography/albums/starscapes/20231015_034220990_iOS.webp"
+      "photoUrl": "https://kccoers.github.io/www-data/albums/starscapes/20231015_034220990_iOS.webp"
     }
   ]
 }]
